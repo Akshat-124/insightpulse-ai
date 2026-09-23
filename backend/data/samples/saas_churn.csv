@@ -1,0 +1,251 @@
+customer_id,signup_date,plan,monthly_charges,tenure_months,total_charges,support_tickets,payment_method,churned
+USER-5001,2023-12-01,Starter (/mo),29.0,12,326.86,3,PayPal,No
+USER-5002,2024-01-11,Growth (/mo),99.0,5,468.5,1,Bank Transfer,No
+USER-5003,2023-07-06,Enterprise (/mo),499.0,1,482.17,2,PayPal,Yes
+USER-5004,2023-12-17,Starter (/mo),29.0,17,450.62,0,PayPal,No
+USER-5005,2024-04-30,Enterprise (/mo),499.0,22,10837.7,0,PayPal,No
+USER-5006,2023-09-05,Growth (/mo),99.0,2,182.53,1,Bank Transfer,No
+USER-5007,2023-04-30,Starter (/mo),29.0,22,587.39,3,Bank Transfer,No
+USER-5008,2023-07-18,Growth (/mo),99.0,15,1467.41,0,PayPal,No
+USER-5009,2023-06-15,Starter (/mo),29.0,23,664.9,1,Bank Transfer,No
+USER-5010,2024-03-03,Enterprise (/mo),499.0,9,4301.76,1,Bank Transfer,No
+USER-5011,2023-12-01,Growth (/mo),99.0,12,1139.02,3,Credit Card,No
+USER-5012,2023-09-22,Growth (/mo),99.0,13,1283.48,0,Bank Transfer,No
+USER-5013,2023-06-30,Growth (/mo),99.0,16,1551.16,3,Credit Card,No
+USER-5014,2023-09-14,Starter (/mo),29.0,15,398.7,0,PayPal,No
+USER-5015,2023-05-24,Starter (/mo),29.0,5,133.21,0,PayPal,No
+USER-5016,2024-02-23,Starter (/mo),29.0,22,588.9,2,PayPal,No
+USER-5017,2023-02-28,Growth (/mo),99.0,22,2064.49,0,Credit Card,No
+USER-5018,2023-11-28,Growth (/mo),99.0,1,91.51,0,Credit Card,No
+USER-5019,2023-11-19,Enterprise (/mo),499.0,2,987.1,0,Credit Card,No
+USER-5020,2023-09-22,Growth (/mo),99.0,20,1973.91,1,PayPal,No
+USER-5021,2024-01-08,Enterprise (/mo),499.0,10,4963.68,0,PayPal,No
+USER-5022,2023-08-30,Growth (/mo),99.0,6,547.63,0,Credit Card,No
+USER-5023,2024-02-11,Enterprise (/mo),499.0,6,2881.19,1,Credit Card,No
+USER-5024,2024-01-06,Enterprise (/mo),499.0,11,5446.38,1,Credit Card,No
+USER-5025,2023-04-28,Growth (/mo),99.0,13,1175.32,0,PayPal,No
+USER-5026,2024-03-16,Enterprise (/mo),499.0,22,10341.05,0,Credit Card,No
+USER-5027,2023-04-01,Growth (/mo),99.0,20,1900.76,3,PayPal,No
+USER-5028,2023-09-15,Starter (/mo),29.0,3,82.5,0,PayPal,No
+USER-5029,2023-10-04,Starter (/mo),29.0,22,615.62,1,Bank Transfer,No
+USER-5030,2024-03-23,Starter (/mo),29.0,23,635.64,0,Bank Transfer,No
+USER-5031,2024-02-09,Growth (/mo),99.0,12,1139.18,2,PayPal,No
+USER-5032,2023-10-22,Starter (/mo),29.0,14,370.84,1,Credit Card,No
+USER-5033,2024-04-10,Starter (/mo),29.0,10,278.35,1,Bank Transfer,No
+USER-5034,2023-04-07,Starter (/mo),29.0,23,649.9,0,PayPal,No
+USER-5035,2023-03-02,Enterprise (/mo),499.0,1,467.81,0,Bank Transfer,Yes
+USER-5036,2023-07-05,Starter (/mo),29.0,5,136.68,1,Bank Transfer,No
+USER-5037,2024-03-13,Enterprise (/mo),499.0,14,6681.88,1,PayPal,No
+USER-5038,2023-07-23,Starter (/mo),29.0,14,387.82,1,Credit Card,No
+USER-5039,2023-07-09,Enterprise (/mo),499.0,18,8518.31,8,PayPal,Yes
+USER-5040,2023-06-26,Enterprise (/mo),499.0,13,6315.6,3,PayPal,No
+USER-5041,2023-03-02,Enterprise (/mo),499.0,8,3771.08,1,Credit Card,No
+USER-5042,2023-02-21,Starter (/mo),29.0,17,463.45,0,PayPal,No
+USER-5043,2023-11-11,Enterprise (/mo),499.0,22,10656.11,0,PayPal,No
+USER-5044,2023-01-03,Starter (/mo),29.0,5,137.34,1,Credit Card,No
+USER-5045,2023-02-02,Growth (/mo),99.0,8,742.17,1,PayPal,No
+USER-5046,2023-07-16,Growth (/mo),99.0,20,1911.92,0,PayPal,No
+USER-5047,2023-01-30,Starter (/mo),29.0,21,578.21,0,PayPal,No
+USER-5048,2024-04-21,Enterprise (/mo),499.0,10,4588.18,2,PayPal,No
+USER-5049,2023-09-22,Enterprise (/mo),499.0,8,3838.38,1,Bank Transfer,No
+USER-5050,2023-05-03,Enterprise (/mo),499.0,1,497.78,0,Bank Transfer,No
+USER-5051,2023-06-30,Enterprise (/mo),499.0,13,6101.32,0,Credit Card,No
+USER-5052,2024-01-13,Enterprise (/mo),499.0,3,1484.9,1,PayPal,No
+USER-5053,2024-02-29,Enterprise (/mo),499.0,19,8862.93,5,Bank Transfer,Yes
+USER-5054,2023-04-26,Enterprise (/mo),499.0,7,3302.55,0,Credit Card,No
+USER-5055,2023-05-14,Starter (/mo),29.0,14,385.95,1,PayPal,No
+USER-5056,2023-05-31,Growth (/mo),99.0,4,388.2,5,PayPal,Yes
+USER-5057,2024-02-21,Enterprise (/mo),499.0,9,4353.66,5,PayPal,Yes
+USER-5058,2023-09-05,Starter (/mo),29.0,11,317.76,1,Bank Transfer,No
+USER-5059,2024-04-04,Enterprise (/mo),499.0,1,473.15,0,Credit Card,No
+USER-5060,2023-12-13,Enterprise (/mo),499.0,8,3912.22,0,Bank Transfer,No
+USER-5061,2023-09-22,Enterprise (/mo),499.0,1,484.07,0,Bank Transfer,No
+USER-5062,2023-12-11,Enterprise (/mo),499.0,11,4981.83,5,Bank Transfer,Yes
+USER-5063,2023-06-10,Growth (/mo),99.0,7,685.68,0,PayPal,No
+USER-5064,2023-12-16,Starter (/mo),29.0,16,451.8,0,Credit Card,No
+USER-5065,2024-03-22,Growth (/mo),99.0,7,639.58,2,PayPal,No
+USER-5066,2023-07-02,Starter (/mo),29.0,4,105.79,0,PayPal,No
+USER-5067,2023-09-10,Enterprise (/mo),499.0,1,487.24,1,Bank Transfer,No
+USER-5068,2023-07-10,Enterprise (/mo),499.0,11,5210.35,8,PayPal,Yes
+USER-5069,2024-03-20,Growth (/mo),99.0,16,1454.57,2,PayPal,No
+USER-5070,2023-05-24,Growth (/mo),99.0,8,772.21,0,PayPal,No
+USER-5071,2024-02-14,Growth (/mo),99.0,16,1574.44,0,Bank Transfer,No
+USER-5072,2023-07-21,Enterprise (/mo),499.0,6,2831.48,0,PayPal,No
+USER-5073,2023-08-24,Growth (/mo),99.0,23,2051.22,1,Bank Transfer,No
+USER-5074,2023-10-25,Starter (/mo),29.0,11,298.64,3,Credit Card,No
+USER-5075,2023-10-08,Growth (/mo),99.0,8,734.14,5,Bank Transfer,Yes
+USER-5076,2023-07-07,Starter (/mo),29.0,16,437.27,0,Bank Transfer,No
+USER-5077,2023-07-06,Growth (/mo),99.0,9,842.06,1,PayPal,No
+USER-5078,2023-12-18,Starter (/mo),29.0,4,112.76,2,PayPal,No
+USER-5079,2023-08-10,Growth (/mo),99.0,7,633.81,5,Credit Card,Yes
+USER-5080,2023-08-31,Starter (/mo),29.0,6,163.93,0,PayPal,No
+USER-5081,2023-09-22,Enterprise (/mo),499.0,24,11156.51,1,Bank Transfer,No
+USER-5082,2023-10-15,Enterprise (/mo),499.0,2,937.96,1,Bank Transfer,No
+USER-5083,2023-09-01,Enterprise (/mo),499.0,4,1886.19,0,Bank Transfer,No
+USER-5084,2023-07-04,Enterprise (/mo),499.0,18,8920.78,0,Credit Card,No
+USER-5085,2023-07-30,Starter (/mo),29.0,12,343.38,5,Credit Card,Yes
+USER-5086,2023-10-23,Enterprise (/mo),499.0,21,10111.32,0,Bank Transfer,No
+USER-5087,2023-07-01,Growth (/mo),99.0,22,2071.37,2,Bank Transfer,No
+USER-5088,2024-03-31,Starter (/mo),29.0,13,362.44,24,Credit Card,Yes
+USER-5089,2024-03-20,Starter (/mo),29.0,21,597.29,0,PayPal,No
+USER-5090,2023-11-10,Enterprise (/mo),499.0,13,6388.98,0,Credit Card,No
+USER-5091,2023-06-25,Starter (/mo),29.0,11,297.21,0,Bank Transfer,No
+USER-5092,2023-11-06,Enterprise (/mo),499.0,13,6014.26,0,Bank Transfer,No
+USER-5093,2024-01-18,Enterprise (/mo),499.0,17,8453.76,0,Credit Card,No
+USER-5094,2024-03-13,Starter (/mo),29.0,5,141.05,1,PayPal,No
+USER-5095,2023-12-25,Enterprise (/mo),499.0,3,1378.82,0,Credit Card,No
+USER-5096,2023-02-02,Growth (/mo),99.0,18,1613.39,2,PayPal,No
+USER-5097,2024-01-27,Starter (/mo),29.0,4,107.44,0,PayPal,No
+USER-5098,2024-04-21,Growth (/mo),99.0,10,913.71,2,Bank Transfer,No
+USER-5099,2023-11-17,Starter (/mo),29.0,5,138.14,0,Credit Card,No
+USER-5100,2023-12-06,Growth (/mo),99.0,11,1074.22,1,PayPal,No
+USER-5101,2024-04-23,Growth (/mo),99.0,18,1683.07,5,PayPal,Yes
+USER-5102,2023-10-04,Starter (/mo),29.0,19,528.83,1,PayPal,No
+USER-5103,2024-03-25,Enterprise (/mo),499.0,14,6653.09,1,Bank Transfer,No
+USER-5104,2024-04-10,Growth (/mo),99.0,16,1511.08,2,Bank Transfer,No
+USER-5105,2023-06-07,Growth (/mo),99.0,14,1283.41,0,Credit Card,No
+USER-5106,2023-09-25,Starter (/mo),29.0,12,323.18,1,PayPal,No
+USER-5107,2024-04-17,Growth (/mo),99.0,16,1473.06,2,Bank Transfer,No
+USER-5108,2023-11-02,Starter (/mo),29.0,1,27.69,0,Bank Transfer,Yes
+USER-5109,2023-07-22,Starter (/mo),29.0,6,169.04,1,Bank Transfer,No
+USER-5110,2023-04-23,Growth (/mo),99.0,3,279.84,0,PayPal,No
+USER-5111,2024-02-18,Enterprise (/mo),499.0,22,10178.65,1,PayPal,No
+USER-5112,2024-02-19,Growth (/mo),99.0,14,1273.46,0,Credit Card,No
+USER-5113,2023-05-29,Starter (/mo),29.0,21,575.83,1,PayPal,No
+USER-5114,2023-11-15,Growth (/mo),99.0,7,645.92,0,PayPal,No
+USER-5115,2023-01-12,Starter (/mo),29.0,4,107.67,0,Bank Transfer,No
+USER-5116,2024-01-08,Starter (/mo),29.0,8,210.89,0,Credit Card,No
+USER-5117,2023-06-25,Growth (/mo),99.0,10,968.79,1,Bank Transfer,No
+USER-5118,2023-08-26,Enterprise (/mo),499.0,2,931.16,2,Credit Card,Yes
+USER-5119,2023-05-17,Growth (/mo),99.0,3,283.43,0,Bank Transfer,No
+USER-5120,2024-02-23,Growth (/mo),99.0,1,90.31,2,Bank Transfer,No
+USER-5121,2023-05-07,Enterprise (/mo),499.0,2,918.08,2,PayPal,No
+USER-5122,2023-04-17,Growth (/mo),99.0,13,1246.0,0,Bank Transfer,No
+USER-5123,2023-03-23,Enterprise (/mo),499.0,24,10828.92,5,PayPal,Yes
+USER-5124,2023-03-04,Growth (/mo),99.0,16,1526.74,0,Credit Card,No
+USER-5125,2024-03-18,Enterprise (/mo),499.0,7,3483.66,0,Bank Transfer,No
+USER-5126,2023-06-16,Starter (/mo),29.0,6,170.42,1,Bank Transfer,No
+USER-5127,2024-02-09,Starter (/mo),29.0,1,28.91,1,PayPal,Yes
+USER-5128,2023-11-02,Starter (/mo),29.0,12,340.02,0,Bank Transfer,No
+USER-5129,2023-02-16,Enterprise (/mo),499.0,20,9319.75,5,PayPal,Yes
+USER-5130,2023-01-31,Starter (/mo),29.0,12,335.63,2,Credit Card,No
+USER-5131,2023-03-06,Growth (/mo),99.0,8,737.89,1,PayPal,No
+USER-5132,2024-01-23,Growth (/mo),99.0,15,1445.38,0,Bank Transfer,No
+USER-5133,2023-07-03,Enterprise (/mo),499.0,5,2308.05,0,PayPal,No
+USER-5134,2023-08-13,Enterprise (/mo),499.0,10,4761.82,1,PayPal,No
+USER-5135,2023-04-06,Enterprise (/mo),499.0,12,5583.02,1,PayPal,No
+USER-5136,2024-04-13,Enterprise (/mo),499.0,6,2715.22,0,Bank Transfer,No
+USER-5137,2024-02-24,Growth (/mo),99.0,18,1669.22,0,PayPal,No
+USER-5138,2023-09-17,Growth (/mo),99.0,24,2182.48,0,Bank Transfer,No
+USER-5139,2024-02-02,Enterprise (/mo),499.0,8,3720.82,0,PayPal,No
+USER-5140,2024-02-24,Growth (/mo),99.0,7,660.02,1,PayPal,No
+USER-5141,2023-03-20,Enterprise (/mo),499.0,10,4651.98,1,Credit Card,No
+USER-5142,2023-02-19,Enterprise (/mo),499.0,22,9953.4,2,Credit Card,No
+USER-5143,2023-04-02,Starter (/mo),29.0,7,184.87,0,Credit Card,No
+USER-5144,2023-10-20,Enterprise (/mo),499.0,13,6265.09,1,PayPal,No
+USER-5145,2023-10-30,Growth (/mo),99.0,2,185.45,1,Credit Card,No
+USER-5146,2023-12-02,Growth (/mo),99.0,3,281.2,1,Bank Transfer,No
+USER-5147,2023-10-13,Enterprise (/mo),499.0,14,6861.67,2,Credit Card,No
+USER-5148,2024-02-26,Enterprise (/mo),499.0,9,4279.48,2,Bank Transfer,No
+USER-5149,2023-02-09,Starter (/mo),29.0,17,448.49,2,PayPal,No
+USER-5150,2023-07-17,Starter (/mo),29.0,7,193.38,0,PayPal,No
+USER-5151,2024-04-30,Starter (/mo),29.0,18,508.91,0,Credit Card,No
+USER-5152,2024-01-28,Enterprise (/mo),499.0,19,8872.29,1,PayPal,No
+USER-5153,2023-08-07,Starter (/mo),29.0,6,170.39,1,PayPal,No
+USER-5154,2023-06-22,Enterprise (/mo),499.0,6,2854.45,1,Bank Transfer,No
+USER-5155,2024-04-07,Growth (/mo),99.0,18,1780.48,0,Bank Transfer,No
+USER-5156,2023-07-31,Enterprise (/mo),499.0,14,6864.55,0,Credit Card,No
+USER-5157,2023-10-16,Enterprise (/mo),499.0,7,3274.71,1,PayPal,No
+USER-5158,2023-05-11,Growth (/mo),99.0,15,1402.95,0,PayPal,No
+USER-5159,2023-01-18,Growth (/mo),99.0,20,1785.23,0,Bank Transfer,No
+USER-5160,2023-01-04,Growth (/mo),99.0,8,729.81,0,PayPal,No
+USER-5161,2024-02-26,Growth (/mo),99.0,18,1694.91,1,PayPal,No
+USER-5162,2023-03-21,Starter (/mo),29.0,2,54.87,0,PayPal,No
+USER-5163,2023-05-08,Starter (/mo),29.0,9,256.07,0,Bank Transfer,No
+USER-5164,2023-10-19,Starter (/mo),29.0,24,631.77,0,Bank Transfer,No
+USER-5165,2023-03-30,Growth (/mo),99.0,23,2209.34,2,Credit Card,No
+USER-5166,2023-11-01,Enterprise (/mo),499.0,10,4509.65,2,Bank Transfer,No
+USER-5167,2023-02-10,Starter (/mo),29.0,11,298.2,2,Bank Transfer,No
+USER-5168,2024-04-21,Starter (/mo),29.0,8,226.15,2,Credit Card,No
+USER-5169,2023-11-21,Enterprise (/mo),499.0,13,5873.41,1,Bank Transfer,No
+USER-5170,2023-10-04,Enterprise (/mo),499.0,5,2327.04,1,Credit Card,No
+USER-5171,2023-01-26,Enterprise (/mo),499.0,24,11972.85,5,PayPal,Yes
+USER-5172,2023-10-22,Enterprise (/mo),499.0,3,1380.55,0,Bank Transfer,No
+USER-5173,2023-03-17,Starter (/mo),29.0,11,289.73,1,Credit Card,No
+USER-5174,2023-10-08,Growth (/mo),99.0,9,809.48,1,PayPal,No
+USER-5175,2023-03-08,Starter (/mo),29.0,16,443.55,1,PayPal,No
+USER-5176,2023-10-20,Starter (/mo),29.0,18,501.96,2,Credit Card,No
+USER-5177,2023-05-05,Starter (/mo),29.0,9,255.17,0,PayPal,No
+USER-5178,2023-02-15,Starter (/mo),29.0,22,600.59,0,Credit Card,No
+USER-5179,2023-06-14,Growth (/mo),99.0,20,1911.77,2,Credit Card,No
+USER-5180,2023-06-29,Enterprise (/mo),499.0,15,7202.95,0,Credit Card,No
+USER-5181,2023-04-13,Enterprise (/mo),499.0,12,5482.61,2,Credit Card,No
+USER-5182,2023-02-27,Enterprise (/mo),499.0,2,922.46,1,Bank Transfer,No
+USER-5183,2023-01-08,Growth (/mo),99.0,23,2232.43,0,Bank Transfer,No
+USER-5184,2023-01-12,Growth (/mo),99.0,7,674.98,0,PayPal,No
+USER-5185,2023-09-25,Growth (/mo),99.0,18,1689.88,2,Credit Card,No
+USER-5186,2023-12-22,Enterprise (/mo),499.0,22,9900.39,1,PayPal,No
+USER-5187,2023-09-27,Starter (/mo),29.0,9,239.35,0,PayPal,No
+USER-5188,2023-11-13,Growth (/mo),99.0,2,187.41,5,Credit Card,Yes
+USER-5189,2023-07-18,Enterprise (/mo),499.0,9,4339.65,3,Bank Transfer,No
+USER-5190,2024-03-18,Starter (/mo),29.0,1,26.95,3,Bank Transfer,No
+USER-5191,2023-09-18,Enterprise (/mo),499.0,4,1976.81,1,PayPal,No
+USER-5192,2023-09-30,Starter (/mo),29.0,6,160.06,5,PayPal,Yes
+USER-5193,2024-04-19,Enterprise (/mo),499.0,1,451.08,3,Bank Transfer,No
+USER-5194,2023-07-21,Enterprise (/mo),499.0,6,2700.1,1,Bank Transfer,No
+USER-5195,2023-11-17,Growth (/mo),99.0,8,791.68,5,Bank Transfer,Yes
+USER-5196,2024-02-20,Starter (/mo),29.0,21,563.79,0,Credit Card,No
+USER-5197,2024-04-28,Enterprise (/mo),499.0,9,4143.21,0,Bank Transfer,No
+USER-5198,2023-12-03,Starter (/mo),29.0,3,84.65,1,PayPal,No
+USER-5199,2023-11-10,Enterprise (/mo),499.0,22,10129.87,0,Credit Card,No
+USER-5200,2023-08-07,Growth (/mo),99.0,20,1847.2,1,Credit Card,No
+USER-5201,2023-12-01,Starter (/mo),29.0,19,525.73,2,Credit Card,No
+USER-5202,2023-06-08,Enterprise (/mo),499.0,23,11360.67,3,Bank Transfer,No
+USER-5203,2024-04-10,Starter (/mo),29.0,21,604.92,3,Bank Transfer,No
+USER-5204,2023-02-04,Enterprise (/mo),499.0,18,8935.83,0,Bank Transfer,No
+USER-5205,2024-03-05,Starter (/mo),29.0,24,628.45,0,Bank Transfer,No
+USER-5206,2024-05-07,Growth (/mo),99.0,10,934.86,5,PayPal,Yes
+USER-5207,2024-04-22,Enterprise (/mo),499.0,9,4110.14,0,Credit Card,No
+USER-5208,2023-04-05,Starter (/mo),29.0,20,557.78,1,PayPal,No
+USER-5209,2023-04-29,Enterprise (/mo),499.0,8,3684.98,0,Credit Card,No
+USER-5210,2023-12-19,Growth (/mo),99.0,5,470.37,1,PayPal,No
+USER-5211,2023-11-29,Growth (/mo),99.0,6,585.22,1,Credit Card,No
+USER-5212,2023-03-25,Starter (/mo),29.0,8,209.55,2,Credit Card,No
+USER-5213,2024-04-18,Growth (/mo),99.0,14,1278.25,1,Credit Card,No
+USER-5214,2024-01-23,Starter (/mo),29.0,3,79.84,5,Bank Transfer,Yes
+USER-5215,2024-03-19,Enterprise (/mo),499.0,16,7734.79,3,Credit Card,No
+USER-5216,2023-08-07,Growth (/mo),99.0,2,190.24,2,Bank Transfer,Yes
+USER-5217,2023-11-10,Enterprise (/mo),499.0,19,9095.89,1,PayPal,No
+USER-5218,2024-02-07,Starter (/mo),29.0,17,449.09,1,Credit Card,No
+USER-5219,2024-03-25,Starter (/mo),29.0,17,470.22,8,Credit Card,Yes
+USER-5220,2023-10-13,Growth (/mo),99.0,17,1643.48,5,Credit Card,Yes
+USER-5221,2023-05-30,Growth (/mo),99.0,13,1272.12,2,Bank Transfer,No
+USER-5222,2023-08-25,Starter (/mo),29.0,14,377.35,3,PayPal,No
+USER-5223,2023-09-22,Starter (/mo),29.0,15,427.6,1,PayPal,No
+USER-5224,2023-09-14,Starter (/mo),29.0,6,170.15,5,PayPal,Yes
+USER-5225,2023-10-07,Starter (/mo),29.0,13,354.89,1,Credit Card,No
+USER-5226,2023-08-21,Enterprise (/mo),499.0,23,11357.4,3,Credit Card,No
+USER-5227,2023-05-09,Growth (/mo),99.0,23,2196.98,2,Credit Card,No
+USER-5228,2024-01-03,Enterprise (/mo),499.0,4,1814.6,2,PayPal,No
+USER-5229,2023-07-05,Starter (/mo),29.0,17,478.57,2,PayPal,No
+USER-5230,2023-11-10,Starter (/mo),29.0,13,360.05,0,Credit Card,No
+USER-5231,2024-04-12,Growth (/mo),99.0,19,1856.79,3,Credit Card,No
+USER-5232,2024-03-20,Starter (/mo),29.0,6,169.98,0,Bank Transfer,No
+USER-5233,2023-06-08,Enterprise (/mo),499.0,15,6952.65,0,Credit Card,No
+USER-5234,2024-05-06,Starter (/mo),29.0,1,27.91,0,Bank Transfer,No
+USER-5235,2023-10-06,Starter (/mo),29.0,20,573.2,0,PayPal,No
+USER-5236,2023-12-04,Growth (/mo),99.0,15,1397.41,0,PayPal,No
+USER-5237,2023-01-04,Starter (/mo),29.0,18,484.32,1,Credit Card,No
+USER-5238,2023-01-26,Starter (/mo),29.0,5,131.3,0,Credit Card,No
+USER-5239,2024-03-13,Starter (/mo),29.0,22,611.08,1,Bank Transfer,No
+USER-5240,2024-04-16,Starter (/mo),29.0,2,52.83,8,Credit Card,Yes
+USER-5241,2023-12-11,Growth (/mo),99.0,20,1912.86,1,PayPal,No
+USER-5242,2024-02-08,Enterprise (/mo),499.0,6,2983.91,2,Bank Transfer,No
+USER-5243,2024-04-21,Starter (/mo),29.0,3,84.99,0,Bank Transfer,No
+USER-5244,2024-02-24,Starter (/mo),29.0,14,399.64,0,Bank Transfer,No
+USER-5245,2023-03-10,Starter (/mo),29.0,23,657.62,0,Bank Transfer,No
+USER-5246,2023-09-26,Starter (/mo),29.0,23,614.24,0,PayPal,No
+USER-5247,2024-01-09,Enterprise (/mo),499.0,17,8472.13,1,PayPal,No
+USER-5248,2023-11-06,Enterprise (/mo),499.0,10,4704.1,2,Bank Transfer,No
+USER-5249,2023-09-27,Enterprise (/mo),499.0,20,9335.15,0,PayPal,No
+USER-5250,2023-09-12,Enterprise (/mo),499.0,24,11535.11,1,Credit Card,No
