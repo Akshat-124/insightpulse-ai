@@ -1,0 +1,41 @@
+order_id,order_date,customer_name,region,category,sub_category,units_sold,unit_price,discount_pct,total_revenue,profit,payment_method,customer_rating
+ORD-2001,2024-01-05,Alex Mercer,North,Laptops,Ultrabook,2,1199.99,0.05,2279.98,450.50,Credit Card,4.8
+ORD-2002,2024-01-08,Priya Sharma,East,Smartphones,Flagship,1,899.00,0.00,899.00,210.00,UPI,4.5
+ORD-2003,2024-01-12,David Miller,West,Audio,Noise-Cancelling,4,249.50,0.10,898.20,180.40,PayPal,4.2
+ORD-2004,2024-01-15,Sarah Jenkins,South,Wearables,Smartwatch,3,199.99,0.15,509.97,95.20,Credit Card,4.6
+ORD-2005,2024-01-18,Rohit Verma,North,Laptops,Gaming,1,1850.00,0.08,1702.00,320.00,UPI,4.9
+ORD-2006,2024-01-22,Emily Davis,West,Smartphones,Budget,5,199.00,0.05,945.25,120.00,Credit Card,3.9
+ORD-2007,2024-01-25,Marcus Vance,East,Audio,Wireless Earbuds,8,79.99,0.20,511.94,85.60,Debit Card,4.1
+ORD-2008,2024-01-29,Ananya Patel,North,Wearables,Fitness Band,6,49.99,0.10,269.95,42.00,UPI,4.4
+ORD-2009,2024-02-02,James Wilson,South,Laptops,Ultrabook,2,1250.00,0.10,2250.00,410.00,Wire Transfer,4.7
+ORD-2010,2024-02-06,Elena Rostova,West,Smartphones,Flagship,2,999.00,0.05,1898.10,380.00,Credit Card,4.3
+ORD-2011,2024-02-10,Kavita Nair,South,Audio,Noise-Cancelling,3,279.00,0.12,736.56,155.00,UPI,4.8
+ORD-2012,2024-02-14,Liam O Connor,East,Wearables,Smartwatch,2,229.00,0.00,458.00,88.00,PayPal,4.0
+ORD-2013,2024-02-18,Vikram Malhotra,North,Laptops,Gaming,3,1950.00,0.15,4972.50,890.00,Credit Card,4.9
+ORD-2014,2024-02-21,Chloe Bennett,West,Smartphones,Budget,4,189.00,0.10,680.40,90.50,Credit Card,3.8
+ORD-2015,2024-02-25,Arjun Singhania,East,Audio,Studio Monitors,2,450.00,0.05,855.00,165.00,UPI,4.6
+ORD-2016,2024-03-01,Zoe Martinez,South,Wearables,Fitness Band,10,39.99,0.25,299.92,35.00,Debit Card,4.2
+ORD-2017,2024-03-05,Lucas Graham,North,Laptops,Workstation,1,2400.00,0.00,2400.00,520.00,Wire Transfer,4.7
+ORD-2018,2024-03-09,Sneha Iyer,West,Smartphones,Foldable,1,1499.00,0.10,1349.10,260.00,UPI,4.9
+ORD-2019,2024-03-12,Benjamin Hayes,East,Audio,Wireless Earbuds,12,69.99,0.18,688.70,110.00,Credit Card,4.1
+ORD-2020,2024-03-16,Tara Deshmukh,South,Wearables,Smartwatch,4,249.00,0.08,916.32,175.00,UPI,4.5
+ORD-2021,2024-03-20,Oliver Queen,West,Laptops,Gaming,180,1850.00,0.40,199800.00,24500.00,Wire Transfer,5.0
+ORD-2022,2024-03-24,Nisha Gupta,North,Smartphones,Budget,3,179.00,0.05,510.15,72.00,UPI,4.0
+ORD-2023,2024-03-28,Daniel Craig,East,Audio,Noise-Cancelling,2,299.00,0.00,598.00,130.00,Credit Card,4.4
+ORD-2024,2024-04-02,Meera Joshi,South,Wearables,Fitness Band,5,45.00,0.10,202.50,32.00,UPI,4.3
+ORD-2025,2024-04-06,Henry Cavill,North,Laptops,Ultrabook,3,1150.00,0.12,3036.00,580.00,Credit Card,4.7
+ORD-2026,2024-04-10,Rhea Kapoor,West,Smartphones,Flagship,2,949.00,0.07,1765.14,340.00,UPI,4.6
+ORD-2027,2024-04-15,Thomas Shelby,East,Audio,Studio Monitors,1,520.00,0.00,520.00,105.00,PayPal,4.8
+ORD-2028,2024-04-19,Pooja Hegde,South,Wearables,Smartwatch,6,219.00,0.15,1116.90,210.00,UPI,4.4
+ORD-2029,2024-04-24,Arthur Dent,North,Laptops,Gaming,2,1900.00,0.10,3420.00,610.00,Credit Card,4.6
+ORD-2030,2024-04-28,Simran Kaur,West,Smartphones,Budget,8,169.00,0.20,1081.60,140.00,UPI,4.1
+ORD-2031,2024-05-02,Bruce Wayne,East,Laptops,Workstation,1,3200.00,0.00,3200.00,750.00,Wire Transfer,4.9
+ORD-2032,2024-05-06,Aman Khan,South,Smartphones,Flagship,1,920.00,0.05,874.00,165.00,UPI,4.3
+ORD-2033,2024-05-11,Natasha Romanoff,North,Audio,Noise-Cancelling,5,260.00,0.15,1105.00,215.00,Credit Card,4.7
+ORD-2034,2024-05-16,Karan Johar,West,Wearables,Smartwatch,3,235.00,0.10,634.50,118.00,Debit Card,4.0
+ORD-2035,2024-05-21,Wanda Maximoff,East,Laptops,Ultrabook,2,1220.00,0.05,2318.00,430.00,PayPal,4.8
+ORD-2036,2024-05-26,Varun Dhawan,South,Smartphones,Foldable,2,1450.00,0.12,2552.00,480.00,UPI,4.5
+ORD-2037,2024-05-30,Stephen Strange,North,Audio,Studio Monitors,3,480.00,0.10,1296.00,240.00,Credit Card,4.9
+ORD-2038,2024-06-03,Deepika Padukone,West,Wearables,Fitness Band,15,35.00,0.20,420.00,55.00,UPI,4.6
+ORD-2039,2024-06-08,Peter Parker,East,Laptops,Gaming,1,1750.00,0.10,1575.00,290.00,Credit Card,4.5
+ORD-2040,2024-06-14,Ranveer Singh,South,Smartphones,Budget,10,175.00,0.15,1487.50,-120.00,UPI,3.5

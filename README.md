@@ -142,6 +142,43 @@ InsightPulse AI was benchmarked against complex real-world e-commerce and SaaS d
 
 ---
 
+## 🔌 Model Context Protocol (MCP) Server
+
+InsightPulse AI exposes its in-memory DuckDB OLAP engine and statistical anomaly detector as a standardized **MCP Server** (built on the official `mcp>=2.0.0` specification). This allows any MCP-compliant client (**Claude Desktop**, **Cursor IDE**, **Antigravity IDE**, or autonomous AI agents) to securely query and analyze your data via standardized tools.
+
+### Available MCP Tools:
+| MCP Tool | Purpose | Output |
+| :--- | :--- | :--- |
+| `list_tables` | Lists all loaded tables, column schemas, and row counts | Schema metadata |
+| `get_table_schema` | Inspects detailed column datatypes and sample rows | Column types & preview |
+| `execute_sql` | Runs read-only DuckDB SQL queries (<25ms execution) | Tabular JSON & execution time |
+| `detect_anomalies` | Runs statistical IQR or Z-score outlier detection | Flagged outliers & math reasons |
+| `profile_data_quality` | Evaluates completeness %, duplicate counts, and nulls | Data health report |
+| `register_dataset` | Dynamically ingests a new local CSV file into DuckDB | Registered table metadata |
+
+### MCP Client Configuration
+
+Add this to your `claude_desktop_config.json`, Cursor, or Antigravity MCP settings:
+
+```json
+{
+  "mcpServers": {
+    "insightpulse": {
+      "command": "python",
+      "args": ["-m", "backend.app.mcp_server"],
+      "cwd": "C:\\Users\\Akshat\\Desktop\\insightpulse-ai"
+    }
+  }
+}
+```
+
+Or run standalone directly in terminal:
+```bash
+python mcp_server.py
+```
+
+---
+
 ## 🚀 Quickstart & Deployment
 
 ### Option A: 1-Click Launch with Docker (Recommended)
